@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @tabitha2robeso370
+- 👀 I’m interested in Backend developer trainee.
+- 🌱 I’m currently specialising in Django.
+- 💞️ Committed to creating robust, efficient server-side solutions.
